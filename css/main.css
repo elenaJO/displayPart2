@@ -1,0 +1,21 @@
+*{
+  box-sizing: border-box; /* para que me respete las medidas width y heigth*/
+  font-family: Garamond; /*el tipo de fuente*/
+}
+
+div{
+  height: 150px; /*150px de alto */
+  width: 300px; /*300 px de ancho*/
+  margin: 10px; /* margen al lado izquiero de 10 px*/
+  padding-top: 7px; /*relleno superior de 7px para que el texto no este pegado a su borde superior*/
+  padding-left: 10px; /* relleno izquierdo de 10px para que el texto no este pegado a borde izquierdo*/
+ }
+
+.yellow{
+  background-color: #F7B617; /*color de fondo */
+}
+
+.black{
+  background-color: #2B2B2B; /* color de fondo */
+  color:#FFFFFF; /*color de texto*/
+}
